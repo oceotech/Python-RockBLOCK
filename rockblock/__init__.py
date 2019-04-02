@@ -5,7 +5,7 @@ from status import SBDStatus
 
 ROCKBLOCK_BAUD_RATE = 19200
 ROCKBLOCK_GENERAL_TIMEOUT = 0.5 # 0.5 seconds
-ROCKBLOCK_SEND_TIMEOUT = 10 # 10 seconds
+ROCKBLOCK_SEND_TIMEOUT = 30 # 30 seconds
 
 
 class RockBLOCK:
